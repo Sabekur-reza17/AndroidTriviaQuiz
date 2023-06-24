@@ -25,6 +25,7 @@ class QuizPlayFragment : BaseFragment<MainViewModel, FragmentQuizPlayBinding>(
         subscribeObserver()
         setupListener()
         setupQuestionList()
+        //todo: game logic implementation
     }
 
     private fun subscribeObserver() {
