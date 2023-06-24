@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_xlarge">22sp</dimen>
+    <dimen name="text_size_2xlarge">32sp</dimen>
+    <dimen name="margin_size">16dp</dimen>
+    <dimen name="margin_size_small">8dp</dimen>
+    <dimen name="size_32dp">32dp</dimen>
+    <dimen name="size_24dp">24dp</dimen>
+    <dimen name="size_16dp">16dp</dimen>
+    <dimen name="size_12dp">12dp</dimen>
+    <dimen name="size_8dp">8dp</dimen>
+    <dimen name="size_0dp">0dp</dimen>
+</resources>
